@@ -4,30 +4,30 @@ Base24 scheme for Atom One Dark
 
 |baseNN|Colour|
 |---|---|
-|base00|<div style="height: 30px; width: 100px; background-color: #282c34;"></div>|
-|base01|<div style="height: 30px; width: 100px; background-color: #3f4451;"></div>|
-|base02|<div style="height: 30px; width: 100px; background-color: #4f5666;"></div>|
-|base03|<div style="height: 30px; width: 100px; background-color: #545862;"></div>|
-|base04|<div style="height: 30px; width: 100px; background-color: #9196a1;"></div>|
-|base05|<div style="height: 30px; width: 100px; background-color: #abb2bf;"></div>|
-|base06|<div style="height: 30px; width: 100px; background-color: #e6e6e6;"></div>|
-|base07|<div style="height: 30px; width: 100px; background-color: #ffffff;"></div>|
-|base08|<div style="height: 30px; width: 100px; background-color: #e06c75;"></div>|
-|base09|<div style="height: 30px; width: 100px; background-color: #d19a66;"></div>|
-|base0A|<div style="height: 30px; width: 100px; background-color: #e5c07b;"></div>|
-|base0B|<div style="height: 30px; width: 100px; background-color: #98c379;"></div>|
-|base0C|<div style="height: 30px; width: 100px; background-color: #56b6c2;"></div>|
-|base0D|<div style="height: 30px; width: 100px; background-color: #61afef;"></div>|
-|base0E|<div style="height: 30px; width: 100px; background-color: #c678dd;"></div>|
-|base0F|<div style="height: 30px; width: 100px; background-color: #be5046;"></div>|
-|base10|<div style="height: 30px; width: 100px; background-color: #21252b;"></div>|
-|base11|<div style="height: 30px; width: 100px; background-color: #181a1f;"></div>|
-|base12|<div style="height: 30px; width: 100px; background-color: #ff7b86;"></div>|
-|base13|<div style="height: 30px; width: 100px; background-color: #efb074;"></div>|
-|base14|<div style="height: 30px; width: 100px; background-color: #b1e18b;"></div>|
-|base15|<div style="height: 30px; width: 100px; background-color: #63d4e0;"></div>|
-|base16|<div style="height: 30px; width: 100px; background-color: #67cdff;"></div>|
-|base17|<div style="height: 30px; width: 100px; background-color: #e48bff;"></div>|
+|base00|![#](https://placehold.it/25/282c34/000000?text=+)
+|base01|![#](https://placehold.it/25/3f4451/000000?text=+)
+|base02|![#](https://placehold.it/25/4f5666/000000?text=+)
+|base03|![#](https://placehold.it/25/545862/000000?text=+)
+|base04|![#](https://placehold.it/25/9196a1/000000?text=+)
+|base05|![#](https://placehold.it/25/abb2bf/000000?text=+)
+|base06|![#](https://placehold.it/25/e6e6e6/000000?text=+)
+|base07|![#](https://placehold.it/25/ffffff/000000?text=+)
+|base08|![#](https://placehold.it/25/e06c75/000000?text=+)
+|base09|![#](https://placehold.it/25/d19a66/000000?text=+)
+|base0A|![#](https://placehold.it/25/e5c07b/000000?text=+)
+|base0B|![#](https://placehold.it/25/98c379/000000?text=+)
+|base0C|![#](https://placehold.it/25/56b6c2/000000?text=+)
+|base0D|![#](https://placehold.it/25/61afef/000000?text=+)
+|base0E|![#](https://placehold.it/25/c678dd/000000?text=+)
+|base0F|![#](https://placehold.it/25/be5046/000000?text=+)
+|base10|![#](https://placehold.it/25/21252b/000000?text=+)
+|base11|![#](https://placehold.it/25/181a1f/000000?text=+)
+|base12|![#](https://placehold.it/25/ff7b86/000000?text=+)
+|base13|![#](https://placehold.it/25/efb074/000000?text=+)
+|base14|![#](https://placehold.it/25/b1e18b/000000?text=+)
+|base15|![#](https://placehold.it/25/63d4e0/000000?text=+)
+|base16|![#](https://placehold.it/25/67cdff/000000?text=+)
+|base17|![#](https://placehold.it/25/e48bff/000000?text=+)
 
 ## Download
 ### Clone
